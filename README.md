@@ -6,7 +6,7 @@ AdminLTE-2.4.17 : https://adminlte.io/
 **Demo Aplikasi**
 
 Tampilan utama:
-![pictures](Desktopscreenshot.png)
+![pictures](dist/img/1.png)
 <br/>
 <br/>
 Tampilan ketika button **ADD** ditekan:
