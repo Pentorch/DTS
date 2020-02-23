@@ -10,7 +10,7 @@ Tampilan utama:
 <br/>
 <br/>
 Tampilan ketika button **ADD** ditekan:
-![pictures](soal-6/capture/6c-3.png)
+![pictures](dist/img/2.png)
 <br/>
 <br/>
 Tampilan ketika button **Edit** ditekan:
