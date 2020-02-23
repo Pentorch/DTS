@@ -9,14 +9,10 @@ Tampilan utama:
 ![pictures](dist/img/1.png)
 <br/>
 <br/>
+Tampilan dalam:
+![pictures](dist/img/3.png)
+<br/>
+<br/>
 Tampilan ketika button **ADD** ditekan:
 ![pictures](dist/img/2.png)
-<br/>
-<br/>
-Tampilan ketika button **Edit** ditekan:
-![pictures](soal-6/capture/6c-2.png)
-<br/>
-<br/>
-Tampilan ketika button **Delete** ditekan:
-![pictures](soal-6/capture/6c-4.png)
 <br/>
